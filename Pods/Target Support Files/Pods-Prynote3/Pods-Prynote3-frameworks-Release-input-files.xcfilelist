@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Prynote3/Pods-Prynote3-frameworks.sh
+${BUILT_PRODUCTS_DIR}/DZNEmptyDataSet/DZNEmptyDataSet.framework
+${BUILT_PRODUCTS_DIR}/R.swift.Library/Rswift.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
