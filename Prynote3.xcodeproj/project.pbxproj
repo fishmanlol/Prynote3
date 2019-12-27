@@ -11,7 +11,6 @@
 		100EFA7623A4659C00B916F3 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100EFA7523A4659C00B916F3 /* MasterViewController.swift */; };
 		100EFA7823A4659C00B916F3 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100EFA7723A4659C00B916F3 /* DetailViewController.swift */; };
 		100EFA7B23A4659C00B916F3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 100EFA7923A4659C00B916F3 /* Main.storyboard */; };
-		100EFA7D23A4659E00B916F3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 100EFA7C23A4659E00B916F3 /* Assets.xcassets */; };
 		100EFA8023A4659E00B916F3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 100EFA7E23A4659E00B916F3 /* LaunchScreen.storyboard */; };
 		100EFA8823A4660300B916F3 /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100EFA8723A4660300B916F3 /* RootViewController.swift */; };
 		100EFA8A23A46AB900B916F3 /* PlaceholderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100EFA8923A46AB900B916F3 /* PlaceholderViewController.swift */; };
@@ -23,13 +22,6 @@
 		100EFA9A23A4768900B916F3 /* Notebook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100EFA9923A4768900B916F3 /* Notebook.swift */; };
 		100EFA9C23A4768F00B916F3 /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100EFA9B23A4768F00B916F3 /* Note.swift */; };
 		100EFA9E23A477B500B916F3 /* NotebookViewController+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100EFA9D23A477B500B916F3 /* NotebookViewController+.swift */; };
-		100EFAA723A477EE00B916F3 /* NoteCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100EFAA023A477EE00B916F3 /* NoteCell.swift */; };
-		100EFAA823A477EE00B916F3 /* NotebookHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100EFAA123A477EE00B916F3 /* NotebookHeader.swift */; };
-		100EFAA923A477EE00B916F3 /* NotebookHeader.xib in Resources */ = {isa = PBXBuildFile; fileRef = 100EFAA223A477EE00B916F3 /* NotebookHeader.xib */; };
-		100EFAAA23A477EE00B916F3 /* NoteCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 100EFAA323A477EE00B916F3 /* NoteCell.xib */; };
-		100EFAAB23A477EE00B916F3 /* NotebookCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 100EFAA423A477EE00B916F3 /* NotebookCell.xib */; };
-		100EFAAC23A477EE00B916F3 /* NotebookCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100EFAA523A477EE00B916F3 /* NotebookCell.swift */; };
-		100EFAAD23A477EE00B916F3 /* WaitingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100EFAA623A477EE00B916F3 /* WaitingView.swift */; };
 		100EFAAF23A47A1500B916F3 /* NotesGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100EFAAE23A47A1500B916F3 /* NotesGroup.swift */; };
 		100EFAB223A47DA500B916F3 /* APIService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100EFAB123A47DA500B916F3 /* APIService.swift */; };
 		100EFAB823A4847C00B916F3 /* NSNotification.Name+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100EFAB423A4847C00B916F3 /* NSNotification.Name+.swift */; };
@@ -42,6 +34,7 @@
 		100EFAC323A5B03500B916F3 /* SharedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100EFAC223A5B03500B916F3 /* SharedViewController.swift */; };
 		100EFAC523A5B44900B916F3 /* NotesViewController+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100EFAC423A5B44900B916F3 /* NotesViewController+.swift */; };
 		6044D794B30F931AEDF755A3 /* Pods_Prynote3.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 45215399AD7359DEDC394E7C /* Pods_Prynote3.framework */; };
+		8EA6270C23ABF37600AC6F14 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8EA6270B23ABF37600AC6F14 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,7 +43,6 @@
 		100EFA7523A4659C00B916F3 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
 		100EFA7723A4659C00B916F3 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		100EFA7A23A4659C00B916F3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		100EFA7C23A4659E00B916F3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		100EFA7F23A4659E00B916F3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		100EFA8123A4659E00B916F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		100EFA8723A4660300B916F3 /* RootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
@@ -63,13 +55,6 @@
 		100EFA9923A4768900B916F3 /* Notebook.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notebook.swift; sourceTree = "<group>"; };
 		100EFA9B23A4768F00B916F3 /* Note.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Note.swift; sourceTree = "<group>"; };
 		100EFA9D23A477B500B916F3 /* NotebookViewController+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "NotebookViewController+.swift"; sourceTree = "<group>"; };
-		100EFAA023A477EE00B916F3 /* NoteCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NoteCell.swift; sourceTree = "<group>"; };
-		100EFAA123A477EE00B916F3 /* NotebookHeader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NotebookHeader.swift; sourceTree = "<group>"; };
-		100EFAA223A477EE00B916F3 /* NotebookHeader.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NotebookHeader.xib; sourceTree = "<group>"; };
-		100EFAA323A477EE00B916F3 /* NoteCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NoteCell.xib; sourceTree = "<group>"; };
-		100EFAA423A477EE00B916F3 /* NotebookCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NotebookCell.xib; sourceTree = "<group>"; };
-		100EFAA523A477EE00B916F3 /* NotebookCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NotebookCell.swift; sourceTree = "<group>"; };
-		100EFAA623A477EE00B916F3 /* WaitingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WaitingView.swift; sourceTree = "<group>"; };
 		100EFAAE23A47A1500B916F3 /* NotesGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotesGroup.swift; sourceTree = "<group>"; };
 		100EFAB123A47DA500B916F3 /* APIService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIService.swift; sourceTree = "<group>"; };
 		100EFAB423A4847C00B916F3 /* NSNotification.Name+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "NSNotification.Name+.swift"; sourceTree = "<group>"; };
@@ -83,6 +68,7 @@
 		100EFAC423A5B44900B916F3 /* NotesViewController+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NotesViewController+.swift"; sourceTree = "<group>"; };
 		45215399AD7359DEDC394E7C /* Pods_Prynote3.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Prynote3.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		58715726C0460920C6086F5C /* Pods-Prynote3.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Prynote3.release.xcconfig"; path = "Target Support Files/Pods-Prynote3/Pods-Prynote3.release.xcconfig"; sourceTree = "<group>"; };
+		8EA6270B23ABF37600AC6F14 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E049AB5643C3082E05CA3BB5 /* Pods-Prynote3.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Prynote3.debug.xcconfig"; path = "Target Support Files/Pods-Prynote3/Pods-Prynote3.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -126,11 +112,11 @@
 				100EFA9223A46E4500B916F3 /* Model */,
 				100EFA8E23A46D1500B916F3 /* R.generated.swift */,
 				100EFA7323A4659C00B916F3 /* AppDelegate.swift */,
+				8EA6270B23ABF37600AC6F14 /* Assets.xcassets */,
 				100EFA8B23A46B2100B916F3 /* PlaceholderViewController.xib */,
 				100EFA7523A4659C00B916F3 /* MasterViewController.swift */,
 				100EFA7723A4659C00B916F3 /* DetailViewController.swift */,
 				100EFA7923A4659C00B916F3 /* Main.storyboard */,
-				100EFA7C23A4659E00B916F3 /* Assets.xcassets */,
 				100EFA7E23A4659E00B916F3 /* LaunchScreen.storyboard */,
 				100EFA8123A4659E00B916F3 /* Info.plist */,
 			);
@@ -168,13 +154,6 @@
 		100EFA9F23A477EE00B916F3 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				100EFAA023A477EE00B916F3 /* NoteCell.swift */,
-				100EFAA123A477EE00B916F3 /* NotebookHeader.swift */,
-				100EFAA223A477EE00B916F3 /* NotebookHeader.xib */,
-				100EFAA323A477EE00B916F3 /* NoteCell.xib */,
-				100EFAA423A477EE00B916F3 /* NotebookCell.xib */,
-				100EFAA523A477EE00B916F3 /* NotebookCell.swift */,
-				100EFAA623A477EE00B916F3 /* WaitingView.swift */,
 			);
 			name = View;
 			path = ../../Prynote2/Prynote2/View;
@@ -278,12 +257,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				100EFA8C23A46B2100B916F3 /* PlaceholderViewController.xib in Resources */,
-				100EFAAB23A477EE00B916F3 /* NotebookCell.xib in Resources */,
-				100EFAA923A477EE00B916F3 /* NotebookHeader.xib in Resources */,
 				100EFA8023A4659E00B916F3 /* LaunchScreen.storyboard in Resources */,
-				100EFA7D23A4659E00B916F3 /* Assets.xcassets in Resources */,
 				100EFA7B23A4659C00B916F3 /* Main.storyboard in Resources */,
-				100EFAAA23A477EE00B916F3 /* NoteCell.xib in Resources */,
+				8EA6270C23ABF37600AC6F14 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -303,7 +279,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$SRCROOT/R.generated.swift",
+				$SRCROOT/R.generated.swift,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -357,7 +333,6 @@
 			files = (
 				100EFA9123A46E3E00B916F3 /* Constant.swift in Sources */,
 				100EFAB823A4847C00B916F3 /* NSNotification.Name+.swift in Sources */,
-				100EFAA723A477EE00B916F3 /* NoteCell.swift in Sources */,
 				100EFA7823A4659C00B916F3 /* DetailViewController.swift in Sources */,
 				100EFAB923A4847C00B916F3 /* UIView+.swift in Sources */,
 				100EFA7623A4659C00B916F3 /* MasterViewController.swift in Sources */,
@@ -371,13 +346,10 @@
 				100EFABB23A4847C00B916F3 /* Date+.swift in Sources */,
 				100EFA9C23A4768F00B916F3 /* Note.swift in Sources */,
 				100EFAC123A5A8AF00B916F3 /* EditorViewController.swift in Sources */,
-				100EFAAD23A477EE00B916F3 /* WaitingView.swift in Sources */,
 				100EFAAF23A47A1500B916F3 /* NotesGroup.swift in Sources */,
 				100EFABD23A4B5B400B916F3 /* Storage.swift in Sources */,
 				100EFABA23A4847C00B916F3 /* UIViewController+.swift in Sources */,
 				100EFA7423A4659C00B916F3 /* AppDelegate.swift in Sources */,
-				100EFAA823A477EE00B916F3 /* NotebookHeader.swift in Sources */,
-				100EFAAC23A477EE00B916F3 /* NotebookCell.swift in Sources */,
 				100EFABF23A58BF200B916F3 /* NotesViewController.swift in Sources */,
 				100EFAB223A47DA500B916F3 /* APIService.swift in Sources */,
 				100EFA8F23A46D1500B916F3 /* R.generated.swift in Sources */,
